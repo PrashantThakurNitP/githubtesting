@@ -1,5 +1,11 @@
 initiated
 
 first line
+second line from ps
+fifth line from ps
+sixth line line ps
+
+first line
 third line from nitp
 fourth line from nitp
+
